@@ -5,6 +5,7 @@
 #include <algorithm>
 #include <cstring>
 using namespace std;
+
 int Sieve(int upperBound) {
       int upperBoundSquareRoot = (int)sqrt((double)upperBound);
       bool *isComposite = new bool[upperBound + 1];
