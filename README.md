@@ -1,2 +1,2 @@
-# RageAgainstMachineLearning
-Programming problems solution (hackerrank, uva, etc)
+# HackerRank
+HackerRank problems solution (mostly algorithm section)
